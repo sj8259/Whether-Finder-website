@@ -1,2 +1,7 @@
 # Whether-Finder-website
 Whether Finder Created using Javascript
+Technologies Used
+HTML: Structure of the web application.
+CSS: Styling of the web application.
+JavaScript: Functionality to fetch and display weather data.
+OpenWeatherMap API: Source of weather data.
